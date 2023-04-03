@@ -1,0 +1,3 @@
+my_custom_module.hello_world:
+  title: 'Hello'
+  url: 'internal:/hello-world'
